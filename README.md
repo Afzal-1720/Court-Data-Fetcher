@@ -13,7 +13,7 @@ Court Data Fetcher is a full-stack application that automates the retrieval of c
 - ⚙️ Backend API powered by Flask
 - 🛡️ Error handling with retry logic and graceful timeouts
 
----
+
 
  🔧 Tech Stack
 
@@ -115,4 +115,4 @@ GitHub: Afzal-1720
 
 
 
-Ask ChatGPT
+
